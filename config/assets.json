@@ -1,0 +1,196 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/bbq.jpg",
+			"width": 1024,
+			"height": 720
+		},
+		{
+			"name": "victory",
+			"path": "./assets/images/victory.jpg",
+			"width": 1024,
+			"height": 721
+		},
+		{
+			"name": "tiles",
+			"path": "./assets/images/tiles.png",
+			"width": 304,
+			"height": 208
+		},
+		{
+			"name": "enemies",
+			"path": "./assets/images/enemies.png",
+			"width": 192,
+			"height": 128
+		},
+		{
+			"name": "hearts",
+			"path": "./assets/images/hearts.png",
+			"width": 96,
+			"height": 16
+		},
+		{
+			"name": "fire",
+			"path": "./assets/images/campfire-sheet.png",
+			"width": 256,
+			"height": 39
+		},
+		{
+			"name": "player_walking_sword",
+			"path": "./assets/sprites/256x256/char_walking_sword.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "player_idling_sword",
+			"path": "./assets/sprites/256x256/char_idling_sword.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "player_attack_sword",
+			"path": "./assets/sprites/256x256/char_attack_sword.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "player_walking_bow",
+			"path": "./assets/sprites/256x256/char_walking_bow.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "player_attack_bow",
+			"path": "./assets/sprites/256x256/char_attack_bow.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "boss",
+			"path": "./assets/images/minotaur.png",
+			"width": 640,
+			"height": 640
+		},
+		{
+			"name": "player_idling_bow",
+			"path": "./assets/sprites/256x256/char_idling_bow.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "bigAnimal",
+			"path": "./assets/sprites/tf_animals/tf_animals/sheets/animals3.png",
+			"width": 504,
+			"height": 288
+		},
+		{
+			"name": "mediumAnimal",
+			"path": "./assets/sprites/tf_animals/tf_animals/sheets/animals2.png",
+			"width": 504,
+			"height": 288
+		},
+		{
+			"name": "biggerAnimal",
+			"path": "./assets/sprites/tf_animals/tf_animals/sheets/animals4.png",
+			"width": 504,
+			"height": 288
+		},
+		{
+			"name": "meat",
+			"path": "./assets/sprites/meatPack.png",
+			"width": 160,
+			"height": 144
+		},
+		{
+			"name": "arrows",
+			"path": "./assets/images/arrows.png",
+			"width": 64,
+			"height": 15
+		},
+		{
+			"name": "player_sword",
+			"path": "./assets/sprites/512x512/char_m_sword.png",
+			"width": 256,
+			"height": 64
+		},
+		{
+			"name": "player_bow",
+			"path": "./assets/sprites/512x512/char_m_bow.png",
+			"width": 256,
+			"height": 64
+		}
+		
+	],
+	"fonts": [
+		{
+			"name": "Zelda",
+			"path": "./assets/fonts/Zelda.otf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "door",
+			"path": "./assets/sounds/door.wav",
+			"size": 4,
+			"volume": 0.1
+		},
+		{
+			"name": "bbq",
+			"path": "./assets/sounds/bbq.mp3",
+			"size": 4,
+			"volume": 0.1
+		},
+		{
+			"name": "hit-enemy",
+			"path": "./assets/sounds/hit_enemy.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "hit-player",
+			"path": "./assets/sounds/hit_player.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "music",
+			"path": "./assets/sounds/music.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "cool",
+			"path": "./assets/sounds/cool.mp3",
+			"size": 1,
+			"volume": 0.2,
+			"loop": true
+		},
+		{
+			"name": "sword",
+			"path": "./assets/sounds/sword.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "shatter",
+			"path": "./assets/sounds/shatter.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "over",
+			"path": "./assets/sounds/womp.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "victorySound",
+			"path": "./assets/sounds/victory.mp3",
+			"size": 1,
+			"volume": 0.1
+		}
+	]
+}
